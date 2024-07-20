@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_CXX_COMPILER=/usr/local/bin/g++-11 -G Ninja -S /Users/smykolaj/SEMESTER4/NAI/cppKnapsack -B /Users/smykolaj/SEMESTER4/NAI/cppKnapsack/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/smykolaj/SEMESTER4/NAI/cppKnapsack/cmake-build-debug
